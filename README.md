@@ -613,6 +613,7 @@ int findGcd(int a, int b) {
 
 <details><summary><b>Day 2</b></summary>
 <p>
+    
 # Recursion Overview
 
 ## What is Recursion?
