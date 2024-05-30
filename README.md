@@ -1,2 +1,25 @@
 # 20-Days-Challenge
-# Day 1
+
+
+<details><summary><b>Day 1</b></summary>
+<p>
+
+#### Count Digit
+
+</p>
+</details>
+<details><summary><b>Day 1</b></summary>
+<p>
+
+#### Count Digit
+
+</p>
+</details>
+<details><summary><b>Day 1</b></summary>
+<p>
+
+#### Count Digit
+
+</p>
+</details>
+
